@@ -6,3 +6,4 @@ title: Welcome to my blog
 
 more testing!
 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
